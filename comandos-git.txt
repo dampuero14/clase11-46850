@@ -19,6 +19,3 @@ Genera una historia completa de los ultimos commits,usuario, fecha y hora de eso
 
 6. git log --oneline
 Genera un historial resumido
-
-
-
